@@ -9,7 +9,7 @@ A preliminary version of the official FusionMark implementation.
 # Watermarking Performance
 
 ## Visual Quality && Robustness
-
+See all_attacks_tpr.pdf
 
 
 # Checkpoints
