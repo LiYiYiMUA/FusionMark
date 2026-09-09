@@ -10,6 +10,7 @@ A preliminary version of the official FusionMark implementation.
 
 ## Visual Quality && Robustness
 See all_attacks_tpr.pdf
+https://github.com/LiYiYiMUA/FusionMark/blob/main/all_attacks_tpr.pdf
 
 
 # Checkpoints
